@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "name": "$primary-color",
+      "value": "#F7D134",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "description": "To add to these items, use Sass variables that start with <code>$color-brand-</code> in <code>./source/css/scss/abstracts/_variables.scss</code>"
+  }
+}

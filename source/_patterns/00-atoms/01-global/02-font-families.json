@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "name": "$header-font",
+      "value": "''brandon-grotesque', sans-serif;",
+      "comment": ""
+    },
+    {
+      "name": "body",
+      "value": "'Open Sans', sans-serif;",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "description": "To add to these items, use Sass variables that start with <code>$font-family-</code> in <code>./source/css/scss/abstracts/_variables.scss</code>"
+  }
+}

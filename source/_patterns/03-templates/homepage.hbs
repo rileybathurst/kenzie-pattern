@@ -1,0 +1,38 @@
+{{> organisms-header }}
+<main>
+
+	<h2>{{ headline }}</h2> {{!-- maybe as far down as an atom --}}
+
+	<picture> {{!-- maybe an atom --}}
+		<img src="{{ src }}" alt="{{ alt }}" loading="lazy">
+	</picture>
+
+	<div class="main-content">
+		{{> organisms-main-content }}
+		{{> organisms-main-content }}
+		{{> organisms-main-content }}
+	</div>
+
+	<div class="main-background"><!-- stay gold --></div>
+</main>
+
+<section id="gallery">
+  {{> organisms-gallery-picture }}
+  {{> organisms-gallery-picture }}
+  {{> organisms-gallery-picture }}
+  {{> organisms-gallery-picture }}
+</section>
+
+<section id="video-edits">
+  {{> organisms-video-area }}
+  {{> organisms-video-area }}
+  {{> organisms-video-area }}
+  {{> organisms-video-area }}
+  {{> organisms-video-area }}
+</section>
+
+<aside id="sponsors">
+  {{> organisms-sponsor }}
+</aside>
+
+{{> organisms-footer }}
