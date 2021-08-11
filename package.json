@@ -20,6 +20,7 @@
   "dependencies": {
     "@pattern-lab/cli": "^5.4.0",
     "@pattern-lab/core": "^5.4.0",
-    "@pattern-lab/engine-handlebars": "^5.5.0"
+    "@pattern-lab/engine-handlebars": "^5.5.0",
+    "@pattern-lab/uikit-workshop": "^5.15.0"
   }
 }
