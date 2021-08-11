@@ -93,15 +93,6 @@
     "density": "compact",
     "layout": "vertical"
   },
-  "uikits": [
-    {
-      "name": "uikit-workshop",
-      "outputDir": "",
-      "enabled": true,
-      "excludedPatternStates": [],
-      "excludedTags": []
-    }
-  ],
   "engines": {
     "handlebars": {
       "extend": "helpers/*.js"
